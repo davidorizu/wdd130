@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background-color: #5ca0d7;
+    text-align: center;
+}
+
+body{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+ol {
+    text-align: left;
+    width: 40%;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+
+h1 {
+    text-align: center;
+    color:white}
+
+h1:hover {
+        background-color: #5ca0d7;
+        color: black;}
+
+* {
+    text-align: center;}
+
+img {
+    width: 15%;}
+
+p {
+    color: white;
+    font-size: 12px;
+}
+
+.main-para {
+    font-size: 24px; /* Adjust the font size as needed */
+    font-weight: bold;
+    text-align: center;
+    width: 20%;
+    margin: 0 auto;
+    color: white; /* Ensures the text color is white */
+
+}
+
+.meta{
+    color: black;
+    width: 15%;
+    text-align: left;
+    margin: 0 auto;
+  
+}
+
+.in{
+    font-size: 16px;
+    font-weight: bold;
+}
