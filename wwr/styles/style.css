@@ -1,0 +1,74 @@
+#content{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+    background-color: bisque;
+}
+
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+    text-align: left;
+}
+nav a:hover {
+    background-color: black;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}  
+
+.logo{
+    width: 80px;
+}
+
+.icon {
+    width: 80px;
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}  
+
+footer{
+    background-color: bisque;
+    text-align: left;
+}
+
+footer p {
+    font-size: 1.2em;
+    background-color: bisque;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}  
+
+.msg{
+    background-color: bisque;
+}
+
+.msg h2{
+    background-color: bisque;
+    color: black;
+}
+
+.msg p{
+    background-color: bisque;
+    color: black;
+}
+
+.join{
+    background-color: grey;
+}
+
+.book{
+    background-color: bisque;
+}
