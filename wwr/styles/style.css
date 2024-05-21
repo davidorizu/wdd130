@@ -1,6 +1,6 @@
 #content{
     margin: 0 auto;
-    text-align: center;
+    max-width: 1600px;
 }
 
 #background {
@@ -11,10 +11,11 @@
 body {
     background-color: #fcfbfb; 
 }
+
 header {
     background-color:rgba(20,30,13, .7);
-    text-align: left;
 }
+
 nav a:hover {
     background-color: black;
 }
@@ -40,13 +41,18 @@ nav a {
 
 footer{
     background-color: bisque;
-    text-align: left;
+    text-decoration: none;
 }
 
 footer p {
     font-size: 1.2em;
     background-color: bisque;
 }    
+
+footer p a{
+    text-decoration: none;
+}
+
 footer p a:hover {
     text-decoration: underline;
 }  
@@ -67,8 +73,30 @@ footer p a:hover {
 
 .join{
     background-color: grey;
+    text-decoration: none;
 }
 
 .book{
     background-color: bisque;
+    text-decoration: none;
+}
+
+#hero-img{
+    width: 100%;
+}
+
+#hero-msg{
+    text-align: center;
+}
+
+.rivers-card{
+    text-align: center;
+}
+
+.camping-card{
+    text-align: center;
+}
+
+.rapids-card{
+    text-align: center;
 }
