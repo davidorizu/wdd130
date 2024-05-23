@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 0;
+
+
+}
+
+.upper {
+    width: 100%;
+}
+
+#greybox {
+    background-color: grey;
+    width: 100%;
+}
+
+.circles {
+    border-radius: 70%;
+    width: 15%;
+    margin: 20px;
+    border:#444444 5px solid;
+    border-width: 15px;
+}
+
+blockquote {
+    text-align: center;
+
+}
