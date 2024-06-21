@@ -208,6 +208,12 @@ footer .social img{
     grid-template-columns: repeat(10,1fr);
 }
 
+/* ------------------------------------------------------------------ */
+/* rate page style */
+ 
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
